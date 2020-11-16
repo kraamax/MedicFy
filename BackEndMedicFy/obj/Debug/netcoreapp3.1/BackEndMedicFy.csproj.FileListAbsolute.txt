@@ -1,0 +1,132 @@
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.csprojAssemblyReference.cache
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\staticwebassets\BackEndMedicFy.StaticWebAssets.Manifest.cache
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\staticwebassets\BackEndMedicFy.StaticWebAssets.xml
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.AssemblyInfoInputs.cache
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.AssemblyInfo.cs
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.exe
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.deps.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.runtimeconfig.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.runtimeconfig.dev.json
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.RazorTargetAssemblyInfo.cache
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.csproj.CopyComplete
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Desarrollo Movil\Proyecto Desarollo App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.exe
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.deps.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.runtimeconfig.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.runtimeconfig.dev.json
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\BackEndMedicFy.pdb
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.csprojAssemblyReference.cache
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\staticwebassets\BackEndMedicFy.StaticWebAssets.Manifest.cache
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\staticwebassets\BackEndMedicFy.StaticWebAssets.xml
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.AssemblyInfoInputs.cache
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.AssemblyInfo.cs
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.RazorTargetAssemblyInfo.cache
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.csproj.CopyComplete
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.dll
+C:\Desarrollo_Movil\Proyecto_Desarollo_App\BackEndMedicFy\obj\Debug\netcoreapp3.1\BackEndMedicFy.pdb
