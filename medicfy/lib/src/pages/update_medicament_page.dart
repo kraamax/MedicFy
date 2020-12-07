@@ -44,10 +44,10 @@ class _UpdateMedicamentPageState extends State<UpdateMedicamentPage> {
     noUpdate++;
     if (noUpdate == 1) {
       final Map arguments = ModalRoute.of(context).settings.arguments as Map;
-      print('hola');
-      print(arguments);
+      //print('hola');
+      //print(arguments);
       medicament = Medicament.fromObject(arguments);
-      print(medicament.medicamentName);
+      //print(medicament.medicamentName);
       schedule = medicament.schedule;
       _fieldNameController.text = medicament.medicamentName;
       _selectedOptionFrequency = medicament.frequency.type;
@@ -188,8 +188,6 @@ class _UpdateMedicamentPageState extends State<UpdateMedicamentPage> {
       return;
     }
     _formKey.currentState.save();
-    print(medicament.medicamentName);
-    print(medicament.frequency);
     medicament.schedule = schedule;
     medicament.duration.initialDate = _fieldInitialDateController.text;
     medicament.duration.finalDate = _fieldFinalDateController.text;
@@ -197,8 +195,9 @@ class _UpdateMedicamentPageState extends State<UpdateMedicamentPage> {
     if (medicament.frequency.type == 'Cada x Dias') {
       medicament.frequency.daysNumber = int.parse(_fieldNoDays.text);
     }
-    MedicamentService.puttMedicament(medicament);
-    Navigator.of(context).pop(true);
+    MedicamentService.puttMedicament(medicament).then((value) {
+      Navigator.of(context).pop(true);
+    });
   }
 
   List<DropdownMenuItem<String>> getDataFromStringDropdown(List list) {
@@ -463,9 +462,10 @@ class _UpdateMedicamentPageState extends State<UpdateMedicamentPage> {
   }
 
   void _deleteMedicament() {
-    MedicamentService.deleteMedicament(medicament);
-    Navigator.of(context).pop();
-    Navigator.of(context).pop();
+    MedicamentService.deleteMedicament(medicament).then((value) {
+      Navigator.of(context).pop();
+      Navigator.of(context).pop();
+    });
   }
 
   void _mostrarAlerta(BuildContext context) {

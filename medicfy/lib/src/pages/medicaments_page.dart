@@ -17,7 +17,7 @@ class _MedicamentsPageState extends State<MedicamentsPage> {
   void initState() {
     super.initState();
 
-    MedicamentService.getMedicaments().then((data) {
+    medicaments = MedicamentService.getMedicaments().then((data) {
       setState(() {});
     });
   }
@@ -26,7 +26,6 @@ class _MedicamentsPageState extends State<MedicamentsPage> {
   Widget build(BuildContext context) {
     medicaments = null;
     medicaments = MedicamentService.getMedicaments();
-    print('Redibujandome');
     return Scaffold(
       /*appBar: AppBar(
         title: Row(
@@ -44,7 +43,6 @@ class _MedicamentsPageState extends State<MedicamentsPage> {
             Navigator.of(context).pushNamed('addMedicament').then((value) {
           setState(() {
             medicaments = MedicamentService.getMedicaments();
-            _lista();
             (context as Element).rebuild();
           });
         }),
@@ -119,9 +117,9 @@ class _MedicamentsPageState extends State<MedicamentsPage> {
         Navigator.pushNamed(context, 'updateMedicament', arguments: opt.toMap())
             .then((value) {
           setState(() {
-            medicaments = MedicamentService.getMedicaments();
-            _lista();
-            (context as Element).rebuild();
+            medicaments = MedicamentService.getMedicaments().then((value) {
+              (context as Element).rebuild();
+            });
           });
         });
       },

@@ -1,45 +1,37 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:medicfy/src/pages/add_user_page.dart';
 import 'package:medicfy/src/pages/home_page.dart';
+import 'package:medicfy/src/pages/login_page.dart';
 import 'package:medicfy/src/pages/medicaments_page.dart';
 import 'package:medicfy/src/routes/routes.dart';
 import 'package:medicfy/utils/my_flutter_app_icons.dart';
 
 class TabPage extends StatelessWidget {
-  List<Widget> pages = [HomePage(), MedicamentsPage(), MedicamentsPage()];
+  List<Widget> pages = [
+    MedicamentsPage(),
+    MedicamentsPage(),
+    AddUserPage(),
+  ];
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Material App',
-      debugShowCheckedModeBanner: false,
-      localizationsDelegates: [
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-      ],
-      supportedLocales: [
-        const Locale('en', 'US'), // English, no country code
-        const Locale('es', 'ES'), // Hebrew, no country code
-      ],
-      home: DefaultTabController(
-          length: choices.length,
-          child: Scaffold(
-            appBar: AppBar(
-              title: Text('MedicFy'),
-              bottom: TabBar(
-                  tabs: choices.map<Widget>((Choice choice) {
-                return Tab(
-                  text: choice.title,
-                  icon: Icon(choice.icon),
-                );
-              }).toList()),
-            ),
-            body: TabBarView(
-              children: pages,
-            ),
-          )),
-      routes: getApplicationRoutes(),
-    );
+    return DefaultTabController(
+        length: choices.length,
+        child: Scaffold(
+          appBar: AppBar(
+            title: Text('MedicFy'),
+            bottom: TabBar(
+                tabs: choices.map<Widget>((Choice choice) {
+              return Tab(
+                text: choice.title,
+                icon: Icon(choice.icon),
+              );
+            }).toList()),
+          ),
+          body: TabBarView(
+            children: pages,
+          ),
+        ));
   }
 }
 

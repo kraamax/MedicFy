@@ -162,8 +162,10 @@ class _AddMedicamentPageState extends State<AddMedicamentPage> {
     if (medicament.frequency.type == 'Cada x Dias') {
       medicament.frequency.daysNumber = int.parse(_fieldNoDays.text);
     }
-    MedicamentService.postMedicament(medicament);
-    Navigator.of(context).pop(true);
+    MedicamentService.postMedicament(medicament).then((value) {
+      print(value);
+      Navigator.of(context).pop(true);
+    });
   }
 
   List<DropdownMenuItem<String>> getDataFromStringDropdown(List list) {
